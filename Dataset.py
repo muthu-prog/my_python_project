@@ -1,0 +1,5 @@
+author_Name =['Jane austen', 'stendhai', 'gustacve flaubert', 'charles dickens', 'emily bronte', 'leo tolstoy', 'john bunyan', 'daniel defoe', 'jonathan swift', 'samuel richardson', 'henry fielding', 'mary shelley', 'benjamin disraeli', 'william thackeray', 'wilkie collins','soren kierkegaard', 'william clayton', 'charles dickens', 'charles dickens', 'samuel richardson']
+book_Name =['pride and prejudice', 'Red and Black', 'madamae bovary', 'david copperfield', 'wuthering heights', 'war and peace', 'the pilgrims progress', 'robinson crusoe', 'gullivers travels', 'clarissa', 'tom jones', 'frankenstein', 'sybil', 'vanity fair', 'the moonstone','christelige taler','claytons guide', 'the pickwick papers', 'oliver twist', 'sir charles grandison']
+price =[1500.00, 200.00, 850.00, 750.00, 1200.00, 950.00, 350.00, 450.00, 650.00, 420.00, 750.00, 1300.00, 500.00, 650.00, 350.00, 450.00, 550.00, 350.00, 750.00, 950.00]
+version =[1.0, 2.0, 3.0, 1.0, 3.0, 2.0, 1.0, 1.0, 2.0, 1.0, 4.0, 3.0, 2.0, 1.0, 2.0, 3.0, 2.0, 1.0, 3.0, 1,0]
+publishing_year =[ 1930, 1850, 1812, 1850, 1847, 1869, 1678, 1719, 1726, 1748, 1749, 1818, 1845, 1848, 1868, 1848, 1848, 1836, 1837, 1818]
